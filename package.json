@@ -1,0 +1,23 @@
+{
+  "name": "projeto-playwright",
+  "version": "1.0.0",
+  "description": "Projeto para desenvolvimento de testes automatizados com o Playwright",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergiocotiazure20265-ops/projeto-playwright.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/sergiocotiazure20265-ops/projeto-playwright/issues"
+  },
+  "homepage": "https://github.com/sergiocotiazure20265-ops/projeto-playwright#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.62.0",
+    "@types/node": "^26.1.2"
+  }
+}
